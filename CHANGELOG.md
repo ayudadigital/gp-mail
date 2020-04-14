@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.1.0 (2020-04-14)
+
+### Changes
+
+#### Upgrade
+
+* Change references from teecke to tpbtools ([59d75dc](https://github.com/tpbtools/gp-mail/commit/59d75dc))
+
+#### Build
+
+* Update Auto Release Log adding v1.1.0 info with JPL ([2d8a556](https://github.com/tpbtools/gp-mail/commit/2d8a556))
+
+#### Docs
+
+* Generate v1.0.0 changelog with JPL ([7031256](https://github.com/tpbtools/gp-mail/commit/7031256))
+
+### Authors
+
+* Pedro Amador
+
 ## v1.0.0 (2020-04-13)
 
 ### Changes
