@@ -2,5 +2,5 @@
 
 # @file devcontrol/global/startup.sh
 # @brief devcontrol startup script and functions
-echo "Generic Platform - Mail Service (c) Teecke 2019"
+echo "Generic Platform - Mail Service (c) 2020 TIC para bien"
 echo
