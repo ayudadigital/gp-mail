@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   mail:
-    image: ayudadigital/gp-mail:1.1.0
+    image: ayudadigital/gp-mail:2.0.0
     build: mail
     ports:
       - 0025:0025
