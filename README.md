@@ -2,7 +2,7 @@
 
 ## Overview
 
-Docker image and docker-compose sample configuration to bring up a Mail Sender Service to the [Docker Generic Platform (GP)](https://github.com/tpbtools/docker-generic-platform).
+Docker image and docker-compose sample configuration to bring up a Mail Sender Service to the [Docker Generic Platform (GP)](https://github.com/ayudadigital/docker-generic-platform).
 
 ## Configuration
 
@@ -28,7 +28,7 @@ The service is formed by one container:
 
 6. Stop the service with `docker-compose stop`.
 
-You can use this docker piece with the [Docker Generic Platform](https://github.com/tpbtools/docker-generic-platform) project.
+You can use this docker piece with the [Docker Generic Platform](https://github.com/ayudadigital/docker-generic-platform) project.
 
 ## Known issues
 
