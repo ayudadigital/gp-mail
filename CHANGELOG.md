@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.1 info with JPL ([9bab3a7](https://github.com/ayudadigital/gp-mail/commit/9bab3a7))
+* Use jpl v6.2.0 ([0be39a6](https://github.com/ayudadigital/gp-mail/commit/0be39a6))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([2931ce2](https://github.com/ayudadigital/gp-mail/commit/2931ce2))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-24)
 
 ### Changes
