@@ -1,5 +1,21 @@
 # Changelog
 
+## v2.0.2 (2022-01-08)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.2 info with JPL ([9e5bdf3](https://github.com/ayudadigital/gp-mail/commit/9e5bdf3))
+
+#### Docs
+
+* Generate v2.0.1 changelog with JPL ([ee594fa](https://github.com/ayudadigital/gp-mail/commit/ee594fa))
+
+### Authors
+
+* 
+
 ## v2.0.1 (2021-03-28)
 
 ### Changes
