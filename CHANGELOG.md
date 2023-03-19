@@ -1,21 +1,37 @@
 # Changelog
 
+## v2.0.4 (2023-03-19)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.4 info with JPL ([c3fa8da](https://github.com/ayudadigital/gp-mail/commit/c3fa8da))
+
+#### Docs
+
+* Generate v2.0.3 changelog with JPL ([2bcae9c](https://github.com/ayudadigital/gp-mail/commit/2bcae9c))
+
+### Authors
+
+* 
+
 ## v2.0.3 (2023-03-19)
 
 ### Changes
 
 #### Update
 
-* Use alpine 3.17.2 ([309586d](https://github.com:ayudadigital/gp-mail/commit/309586d))
+* Use alpine 3.17.2 ([309586d](https://github.com/ayudadigital/gp-mail/commit/309586d))
 
 #### Build
 
-* Update Auto Release Log adding v2.0.3 info with JPL ([08d9554](https://github.com:ayudadigital/gp-mail/commit/08d9554))
-* Migrate to gh docker registry ([ca6da1d](https://github.com:ayudadigital/gp-mail/commit/ca6da1d))
+* Update Auto Release Log adding v2.0.3 info with JPL ([08d9554](https://github.com/ayudadigital/gp-mail/commit/08d9554))
+* Migrate to gh docker registry ([ca6da1d](https://github.com/ayudadigital/gp-mail/commit/ca6da1d))
 
 #### Docs
 
-* Generate v2.0.2 changelog with JPL ([cbe9c62](https://github.com:ayudadigital/gp-mail/commit/cbe9c62))
+* Generate v2.0.2 changelog with JPL ([cbe9c62](https://github.com/ayudadigital/gp-mail/commit/cbe9c62))
 
 ### Authors
 
@@ -27,11 +43,11 @@
 
 #### Build
 
-* Update Auto Release Log adding v2.0.2 info with JPL ([9e5bdf3](https://github.com:ayudadigital/gp-mail/commit/9e5bdf3))
+* Update Auto Release Log adding v2.0.2 info with JPL ([9e5bdf3](https://github.com/ayudadigital/gp-mail/commit/9e5bdf3))
 
 #### Docs
 
-* Generate v2.0.1 changelog with JPL ([ee594fa](https://github.com:ayudadigital/gp-mail/commit/ee594fa))
+* Generate v2.0.1 changelog with JPL ([ee594fa](https://github.com/ayudadigital/gp-mail/commit/ee594fa))
 
 ### Authors
 
@@ -43,12 +59,12 @@
 
 #### Build
 
-* Update Auto Release Log adding v2.0.1 info with JPL ([9bab3a7](https://github.com:ayudadigital/gp-mail/commit/9bab3a7))
-* Use jpl v6.2.0 ([0be39a6](https://github.com:ayudadigital/gp-mail/commit/0be39a6))
+* Update Auto Release Log adding v2.0.1 info with JPL ([9bab3a7](https://github.com/ayudadigital/gp-mail/commit/9bab3a7))
+* Use jpl v6.2.0 ([0be39a6](https://github.com/ayudadigital/gp-mail/commit/0be39a6))
 
 #### Docs
 
-* Generate v2.0.0 changelog with JPL ([2931ce2](https://github.com:ayudadigital/gp-mail/commit/2931ce2))
+* Generate v2.0.0 changelog with JPL ([2931ce2](https://github.com/ayudadigital/gp-mail/commit/2931ce2))
 
 ### Authors
 
@@ -60,32 +76,32 @@
 
 #### Breaking
 
-* Upgrade license ([0efdc49](https://github.com:ayudadigital/gp-mail/commit/0efdc49))
+* Upgrade license ([0efdc49](https://github.com/ayudadigital/gp-mail/commit/0efdc49))
 
 #### Upgrade
 
-* Use alpine 3.11.6 docker image ([961a2d3](https://github.com:ayudadigital/gp-mail/commit/961a2d3))
-* Change tpbtools and TIC para Bien references with Ayuda Digital ([4914015](https://github.com:ayudadigital/gp-mail/commit/4914015))
+* Use alpine 3.11.6 docker image ([961a2d3](https://github.com/ayudadigital/gp-mail/commit/961a2d3))
+* Change tpbtools and TIC para Bien references with Ayuda Digital ([4914015](https://github.com/ayudadigital/gp-mail/commit/4914015))
 
 #### Update
 
-* Use gp-mail 2.0.0 docker image tag in compose ([faf2891](https://github.com:ayudadigital/gp-mail/commit/faf2891))
+* Use gp-mail 2.0.0 docker image tag in compose ([faf2891](https://github.com/ayudadigital/gp-mail/commit/faf2891))
 
 #### Build
 
-* Update Auto Release Log adding v2.0.0 info with JPL ([cecd1ab](https://github.com:ayudadigital/gp-mail/commit/cecd1ab))
-* Review deleteDir place ([b3eaed9](https://github.com:ayudadigital/gp-mail/commit/b3eaed9))
-* Use ayudadigital jpl v4.0.0 ([3ee97ca](https://github.com:ayudadigital/gp-mail/commit/3ee97ca))
+* Update Auto Release Log adding v2.0.0 info with JPL ([cecd1ab](https://github.com/ayudadigital/gp-mail/commit/cecd1ab))
+* Review deleteDir place ([b3eaed9](https://github.com/ayudadigital/gp-mail/commit/b3eaed9))
+* Use ayudadigital jpl v4.0.0 ([3ee97ca](https://github.com/ayudadigital/gp-mail/commit/3ee97ca))
 
 #### Docs
 
-* Change tpbtools with ayudadigital references in contributing ([232db94](https://github.com:ayudadigital/gp-mail/commit/232db94))
-* Update main readme ([88a14ab](https://github.com:ayudadigital/gp-mail/commit/88a14ab))
-* Generate v1.1.0 changelog with JPL ([7f4a165](https://github.com:ayudadigital/gp-mail/commit/7f4a165))
+* Change tpbtools with ayudadigital references in contributing ([232db94](https://github.com/ayudadigital/gp-mail/commit/232db94))
+* Update main readme ([88a14ab](https://github.com/ayudadigital/gp-mail/commit/88a14ab))
+* Generate v1.1.0 changelog with JPL ([7f4a165](https://github.com/ayudadigital/gp-mail/commit/7f4a165))
 
 #### Misc
 
-* Update README.md ([11f00cc](https://github.com:ayudadigital/gp-mail/commit/11f00cc))
+* Update README.md ([11f00cc](https://github.com/ayudadigital/gp-mail/commit/11f00cc))
 
 ### Authors
 
@@ -98,15 +114,15 @@
 
 #### Upgrade
 
-* Change references from teecke to tpbtools ([59d75dc](https://github.com:ayudadigital/gp-mail/commit/59d75dc))
+* Change references from teecke to tpbtools ([59d75dc](https://github.com/ayudadigital/gp-mail/commit/59d75dc))
 
 #### Build
 
-* Update Auto Release Log adding v1.1.0 info with JPL ([2d8a556](https://github.com:ayudadigital/gp-mail/commit/2d8a556))
+* Update Auto Release Log adding v1.1.0 info with JPL ([2d8a556](https://github.com/ayudadigital/gp-mail/commit/2d8a556))
 
 #### Docs
 
-* Generate v1.0.0 changelog with JPL ([7031256](https://github.com:ayudadigital/gp-mail/commit/7031256))
+* Generate v1.0.0 changelog with JPL ([7031256](https://github.com/ayudadigital/gp-mail/commit/7031256))
 
 ### Authors
 
@@ -118,18 +134,18 @@
 
 #### Breaking
 
-* Upgrade license ([2cfe389](https://github.com:ayudadigital/gp-mail/commit/2cfe389))
+* Upgrade license ([2cfe389](https://github.com/ayudadigital/gp-mail/commit/2cfe389))
 
 #### Build
 
-* Update Auto Release Log adding v1.0.0 info with JPL ([c1b55fb](https://github.com:ayudadigital/gp-mail/commit/c1b55fb))
-* Fix docker image build assets path ([61fa705](https://github.com:ayudadigital/gp-mail/commit/61fa705))
+* Update Auto Release Log adding v1.0.0 info with JPL ([c1b55fb](https://github.com/ayudadigital/gp-mail/commit/c1b55fb))
+* Fix docker image build assets path ([61fa705](https://github.com/ayudadigital/gp-mail/commit/61fa705))
 
 #### Docs
 
-* Add code of conduct and contributing docs ([8bac722](https://github.com:ayudadigital/gp-mail/commit/8bac722))
-* Change references from kairops to TIC para Bien ([7e96017](https://github.com:ayudadigital/gp-mail/commit/7e96017))
-* Generate v0.4.2 changelog with JPL ([6c154c3](https://github.com:ayudadigital/gp-mail/commit/6c154c3))
+* Add code of conduct and contributing docs ([8bac722](https://github.com/ayudadigital/gp-mail/commit/8bac722))
+* Change references from kairops to TIC para Bien ([7e96017](https://github.com/ayudadigital/gp-mail/commit/7e96017))
+* Generate v0.4.2 changelog with JPL ([6c154c3](https://github.com/ayudadigital/gp-mail/commit/6c154c3))
 
 ### Authors
 
@@ -141,12 +157,12 @@
 
 #### Build
 
-* Update Auto Release Log adding v0.4.2 info with JPL ([69b46d4](https://github.com:ayudadigital/gp-mail/commit/69b46d4))
-* Review pipeline ([aab5636](https://github.com:ayudadigital/gp-mail/commit/aab5636))
+* Update Auto Release Log adding v0.4.2 info with JPL ([69b46d4](https://github.com/ayudadigital/gp-mail/commit/69b46d4))
+* Review pipeline ([aab5636](https://github.com/ayudadigital/gp-mail/commit/aab5636))
 
 #### Docs
 
-* Generate v0.4.1 changelog with JPL ([52da2a1](https://github.com:ayudadigital/gp-mail/commit/52da2a1))
+* Generate v0.4.1 changelog with JPL ([52da2a1](https://github.com/ayudadigital/gp-mail/commit/52da2a1))
 
 ### Authors
 
@@ -158,15 +174,15 @@
 
 #### Update
 
-* Review devcontrol scripts ([f1dc8ec](https://github.com:ayudadigital/gp-mail/commit/f1dc8ec))
+* Review devcontrol scripts ([f1dc8ec](https://github.com/ayudadigital/gp-mail/commit/f1dc8ec))
 
 #### Build
 
-* Update Auto Release Log adding v0.4.1 info with JPL ([022922a](https://github.com:ayudadigital/gp-mail/commit/022922a))
+* Update Auto Release Log adding v0.4.1 info with JPL ([022922a](https://github.com/ayudadigital/gp-mail/commit/022922a))
 
 #### Docs
 
-* Generate v0.4.0 changelog with JPL ([39677d4](https://github.com:ayudadigital/gp-mail/commit/39677d4))
+* Generate v0.4.0 changelog with JPL ([39677d4](https://github.com/ayudadigital/gp-mail/commit/39677d4))
 
 ### Authors
 
@@ -178,20 +194,20 @@
 
 #### Upgrade
 
-* Use alpine:3.11.3 as base image ([af806bb](https://github.com:ayudadigital/gp-mail/commit/af806bb))
+* Use alpine:3.11.3 as base image ([af806bb](https://github.com/ayudadigital/gp-mail/commit/af806bb))
 
 #### Update
 
-* Use next image tag in docker-compose file ([64bb9d8](https://github.com:ayudadigital/gp-mail/commit/64bb9d8))
+* Use next image tag in docker-compose file ([64bb9d8](https://github.com/ayudadigital/gp-mail/commit/64bb9d8))
 
 #### Build
 
-* Update Auto Release Log adding v0.4.0 info with JPL ([e34f710](https://github.com:ayudadigital/gp-mail/commit/e34f710))
-* Use more generig gp pipeline ([a3a5331](https://github.com:ayudadigital/gp-mail/commit/a3a5331))
+* Update Auto Release Log adding v0.4.0 info with JPL ([e34f710](https://github.com/ayudadigital/gp-mail/commit/e34f710))
+* Use more generig gp pipeline ([a3a5331](https://github.com/ayudadigital/gp-mail/commit/a3a5331))
 
 #### Docs
 
-* Generate v0.3.0 changelog with JPL ([3dfd701](https://github.com:ayudadigital/gp-mail/commit/3dfd701))
+* Generate v0.3.0 changelog with JPL ([3dfd701](https://github.com/ayudadigital/gp-mail/commit/3dfd701))
 
 ### Authors
 
@@ -203,20 +219,20 @@
 
 #### New
 
-* Add assets install devcontrol action ([9d8031d](https://github.com:ayudadigital/gp-mail/commit/9d8031d))
-* Add .gitignore file ([215ac06](https://github.com:ayudadigital/gp-mail/commit/215ac06))
+* Add assets install devcontrol action ([9d8031d](https://github.com/ayudadigital/gp-mail/commit/9d8031d))
+* Add .gitignore file ([215ac06](https://github.com/ayudadigital/gp-mail/commit/215ac06))
 
 #### Upgrade
 
-* Service refactor with assets install ([9f40584](https://github.com:ayudadigital/gp-mail/commit/9f40584))
+* Service refactor with assets install ([9f40584](https://github.com/ayudadigital/gp-mail/commit/9f40584))
 
 #### Build
 
-* Update Auto Release Log adding v0.3.0 info with JPL ([df3a11d](https://github.com:ayudadigital/gp-mail/commit/df3a11d))
+* Update Auto Release Log adding v0.3.0 info with JPL ([df3a11d](https://github.com/ayudadigital/gp-mail/commit/df3a11d))
 
 #### Docs
 
-* Generate v0.2.1 changelog with JPL ([c00eede](https://github.com:ayudadigital/gp-mail/commit/c00eede))
+* Generate v0.2.1 changelog with JPL ([c00eede](https://github.com/ayudadigital/gp-mail/commit/c00eede))
 
 ### Authors
 
@@ -228,17 +244,17 @@
 
 #### Update
 
-* Use directory instead named volume for mail service in docker-compose sample ([c307262](https://github.com:ayudadigital/gp-mail/commit/c307262))
+* Use directory instead named volume for mail service in docker-compose sample ([c307262](https://github.com/ayudadigital/gp-mail/commit/c307262))
 
 #### Build
 
-* Update Auto Release Log adding v0.2.1 info with JPL ([418f3b9](https://github.com:ayudadigital/gp-mail/commit/418f3b9))
-* Use environment variable for mail notificacions targets ([67a6bd1](https://github.com:ayudadigital/gp-mail/commit/67a6bd1))
+* Update Auto Release Log adding v0.2.1 info with JPL ([418f3b9](https://github.com/ayudadigital/gp-mail/commit/418f3b9))
+* Use environment variable for mail notificacions targets ([67a6bd1](https://github.com/ayudadigital/gp-mail/commit/67a6bd1))
 
 #### Docs
 
-* Update main readme file ([0021641](https://github.com:ayudadigital/gp-mail/commit/0021641))
-* Generate v0.2.0 changelog with JPL ([b051cbe](https://github.com:ayudadigital/gp-mail/commit/b051cbe))
+* Update main readme file ([0021641](https://github.com/ayudadigital/gp-mail/commit/0021641))
+* Generate v0.2.0 changelog with JPL ([b051cbe](https://github.com/ayudadigital/gp-mail/commit/b051cbe))
 
 ### Authors
 
@@ -250,17 +266,17 @@
 
 #### Upgrade
 
-* Rename docker-compose config file ([36bf87f](https://github.com:ayudadigital/gp-mail/commit/36bf87f))
+* Rename docker-compose config file ([36bf87f](https://github.com/ayudadigital/gp-mail/commit/36bf87f))
 
 #### Build
 
-* Update Auto Release Log adding v0.2.0 info with JPL ([f5bfc66](https://github.com:ayudadigital/gp-mail/commit/f5bfc66))
-* Use release number instead of release name for the docker image tag ([112421c](https://github.com:ayudadigital/gp-mail/commit/112421c))
+* Update Auto Release Log adding v0.2.0 info with JPL ([f5bfc66](https://github.com/ayudadigital/gp-mail/commit/f5bfc66))
+* Use release number instead of release name for the docker image tag ([112421c](https://github.com/ayudadigital/gp-mail/commit/112421c))
 
 #### Docs
 
-* Add docker compose sample reference to main readme ([e6b7923](https://github.com:ayudadigital/gp-mail/commit/e6b7923))
-* Generate v0.1.0 changelog with JPL ([bb8454a](https://github.com:ayudadigital/gp-mail/commit/bb8454a))
+* Add docker compose sample reference to main readme ([e6b7923](https://github.com/ayudadigital/gp-mail/commit/e6b7923))
+* Generate v0.1.0 changelog with JPL ([bb8454a](https://github.com/ayudadigital/gp-mail/commit/bb8454a))
 
 ### Authors
 
@@ -272,16 +288,16 @@
 
 #### New
 
-* First functional release, adding all initial stuff ([cc7596c](https://github.com:ayudadigital/gp-mail/commit/cc7596c))
+* First functional release, adding all initial stuff ([cc7596c](https://github.com/ayudadigital/gp-mail/commit/cc7596c))
 
 #### Update
 
-* Identify service in devcontrol startup ([4e98590](https://github.com:ayudadigital/gp-mail/commit/4e98590))
+* Identify service in devcontrol startup ([4e98590](https://github.com/ayudadigital/gp-mail/commit/4e98590))
 
 #### Build
 
-* Update Auto Release Log adding v0.1.0 info with JPL ([d37c644](https://github.com:ayudadigital/gp-mail/commit/d37c644))
-* Fix method signature matching ([db2b2f2](https://github.com:ayudadigital/gp-mail/commit/db2b2f2))
+* Update Auto Release Log adding v0.1.0 info with JPL ([d37c644](https://github.com/ayudadigital/gp-mail/commit/d37c644))
+* Fix method signature matching ([db2b2f2](https://github.com/ayudadigital/gp-mail/commit/db2b2f2))
 
 ### Authors
 
@@ -293,7 +309,7 @@
 
 #### Misc
 
-* Initial commit ([d0db851](https://github.com:ayudadigital/gp-mail/commit/d0db851))
+* Initial commit ([d0db851](https://github.com/ayudadigital/gp-mail/commit/d0db851))
 
 ### Authors
 
