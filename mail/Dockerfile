@@ -1,4 +1,4 @@
-FROM alpine:3.11.6
+FROM alpine:3.17.2
 
 # Packages
 RUN apk add --no-cache postfix mailx rsync
