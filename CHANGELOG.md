@@ -1,5 +1,25 @@
 # Changelog
 
+## v2.0.5 (2023-03-20)
+
+### Changes
+
+#### Update
+
+* Add docker gh label info ([68415b7](https://github.com/ayudadigital/gp-mail/commit/68415b7))
+
+#### Build
+
+* Update Auto Release Log adding v2.0.5 info with JPL ([010a449](https://github.com/ayudadigital/gp-mail/commit/010a449))
+
+#### Docs
+
+* Generate v2.0.4 changelog with JPL ([4bc5a68](https://github.com/ayudadigital/gp-mail/commit/4bc5a68))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.4 (2023-03-19)
 
 ### Changes
