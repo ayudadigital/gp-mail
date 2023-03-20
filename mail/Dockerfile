@@ -1,5 +1,9 @@
 FROM alpine:3.17.2
 
+LABEL org.opencontainers.image.source=https://github.com/ayudadigital/gp-mail
+LABEL org.opencontainers.image.description="Generic Platform - Mail service"
+LABEL org.opencontainers.image.licenses=MIT
+
 # Packages
 RUN apk add --no-cache postfix mailx rsync
 
