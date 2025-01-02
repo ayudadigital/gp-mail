@@ -1,4 +1,4 @@
-FROM alpine:3.17.2
+FROM alpine:3
 
 LABEL org.opencontainers.image.source=https://github.com/ayudadigital/gp-mail
 LABEL org.opencontainers.image.description="Generic Platform - Mail service"
