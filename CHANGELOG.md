@@ -1,5 +1,25 @@
 # Changelog
 
+## v2.1.0 (2025-01-02)
+
+### Changes
+
+#### Upgrade
+
+* Use alpine 3 docker image ([02dc74f](https://github.com/ayudadigital/gp-mail/commit/02dc74f))
+
+#### Build
+
+* Update Auto Release Log adding v2.1.0 info with JPL ([7056ae5](https://github.com/ayudadigital/gp-mail/commit/7056ae5))
+
+#### Docs
+
+* Generate v2.0.5 changelog with JPL ([5b86d3b](https://github.com/ayudadigital/gp-mail/commit/5b86d3b))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.5 (2023-03-20)
 
 ### Changes
